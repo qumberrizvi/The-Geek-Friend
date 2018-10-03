@@ -6,6 +6,6 @@ TGFAssistant, as we call it is a Google Action App, which can be called within G
 
 At the initial stage, I'm still experimenting with the codes, and documentation provided by Google.
 
-Will up date this description as I make any major changes to the app.
+Will up date the README as I make any major changes to the app.
 
 Cheers!
