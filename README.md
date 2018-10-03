@@ -1,4 +1,4 @@
-# tgf
+# The Geek Friend
 # Version 0.0.1
 The Geek Friend is your ultimate tech assistant.
 
